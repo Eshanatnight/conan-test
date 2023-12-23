@@ -1,0 +1,8 @@
+dependencies
+/.cache
+/.vscode
+/build
+/bin
+/bin-int
+*.make
+Makefile
